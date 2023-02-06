@@ -4,7 +4,7 @@
 - Currently learning how to make React templates and principles of open source software.
 - I'm looking to collaborate with boutique hedge funds on interesting software opportunities.
 
-![alt text] (https://drive.google.com/file/d/13m2jarEAEtprd20aSnuI1JenRq_5nY4q/view?usp=sharing)
+![alt text] ![ColumbiaShieldGold](https://user-images.githubusercontent.com/55396288/216880290-f1c7436b-65d1-4b2c-bd2b-30d1e87f20d5.jpg)
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/file/d/13m2jarEAEtprd20aSnuI1JenRq_5nY4q/view?usp=sharing">
   <img alt="Shows Columbia's old crest." src="https://drive.google.com/file/d/13m2jarEAEtprd20aSnuI1JenRq_5nY4q/view?usp=sharing">
