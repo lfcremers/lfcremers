@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hello there!
 
-I'm currently working on compliancetech software.
-Currently learning how to make React templates and principles of open source software.
-I'm looking to collaborate with boutique hedge funds on interesting software opportunities.
+- I'm currently working on compliancetech software.
+- Currently learning how to make React templates and principles of open source software.
+- I'm looking to collaborate with boutique hedge funds on interesting software opportunities.
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/file/d/13m2jarEAEtprd20aSnuI1JenRq_5nY4q/view?usp=sharing">
