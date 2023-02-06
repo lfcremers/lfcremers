@@ -5,9 +5,9 @@ Currently learning how to make React templates and principles of open source sof
 I'm looking to collaborate with boutique hedge funds on interesting software opportunities.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://en.wikipedia.org/wiki/Heraldry_of_Columbia_University#/media/File:ColumbiaShieldGold.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://en.wikipedia.org/wiki/Heraldry_of_Columbia_University#/media/File:ColumbiaShieldGold.jpg">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://en.wikipedia.org/wiki/Heraldry_of_Columbia_University#/media/File:ColumbiaShieldGold.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="http://en.wikipedia.org/wiki/Heraldry_of_Columbia_University#/media/File:ColumbiaShieldGold.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="http://en.wikipedia.org/wiki/Heraldry_of_Columbia_University#/media/File:ColumbiaShieldGold.jpg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="http://en.wikipedia.org/wiki/Heraldry_of_Columbia_University#/media/File:ColumbiaShieldGold.jpg">
 </picture>
 
 
